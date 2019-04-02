@@ -1,0 +1,14 @@
+{
+    "name": "eduardo-mitkus/mitkus-package",
+    "type": "library",
+    "description": "Um package muito maneiro",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Mitkus",
+            "email": "eduardo.silva.mitkus@gmail.com",
+            "homepage": "https://eduardomitkus.github.io/",
+            "role": "Developer"
+        }
+    ]
+}
